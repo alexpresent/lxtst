@@ -1,3 +1,0 @@
-Hello git!
-Renewed git file.
-New line in file
