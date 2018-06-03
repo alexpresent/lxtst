@@ -1,2 +1,4 @@
 Hello git!
 Renewed git file.
+New line in file
+Another one new line!
